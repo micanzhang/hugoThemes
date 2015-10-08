@@ -175,3 +175,6 @@
 [submodule "grid-side"]
 	path = grid-side
 	url = https://github.com/chipsenkbeil/grid-side.git
+[submodule "elegant"]
+	path = elegant
+	url = https://github.com/micanzhang/hugo-elegant.git
